@@ -1,4 +1,4 @@
-# UCSDUnfoldingMaps16
+# Interactive Map of Earthquakes
 Project developed during the course of Object Oriented Programming with Java - by University of California San Diego.
 
 The course covers subjects such as Memory Models, Creating GUIs, Inheritence and Polymorphism, 
