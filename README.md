@@ -1,10 +1,10 @@
 # UCSDUnfoldingMaps16
-Project developed during the course of Object Oriented Programming with Java - by UCSD
+Project developed during the course of Object Oriented Programming with Java - by University of California San Diego.
 
 The course covers subjects such as Memory Models, Creating GUIs, Inheritence and Polymorphism, 
 Responding to User Events, Searching and Sorting Algorithms. 
 
-Using the Processing library and the Unfolding Maps library, we were able to develop and interactive map of the world 
+Using the Processing library and the Unfolding Maps library, we were able to develop an interactive map of the world 
 that represents the earthquakes and cities with markers of various types and colors. 
 
 I added an extension to the code that performs the following operation:
